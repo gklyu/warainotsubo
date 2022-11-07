@@ -1,6 +1,6 @@
 name: 笑いのツボ
 description: ユーモアでマッチング
-full_description: 'A more complete description of the mobile app<br>
+full_description: 'A more complete description of the app<br>
 <br>With a lot of features:
 <br>- 特徴 1
 <br>- 特徴 2
@@ -12,7 +12,6 @@ screenshots:
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
 companies:
   - url: https://telegra.ph/Replace-this-link-07-23
     image: androidpolice.png
