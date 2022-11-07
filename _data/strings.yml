@@ -1,10 +1,10 @@
 app:
-  screenshots: Screenshots
+  screenshots: スクリーンショット
   description: Description
   featured: Featured in
 
 footer:
   copyright: Made with ❤️ in Japan 🇪🇺 by Warainotsubo
   links:
-    - title: Privacy
+    - title: プライバシーポリシー
       url: /privacy
