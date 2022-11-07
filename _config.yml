@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://warainotsubo.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 twitter_username: warainotsubo
-github_username:  warainotsubo
+# github_username:  warainotsubo
 author: Warainotsubo
 logo: assets/images/large-logo.png
 twitter:
